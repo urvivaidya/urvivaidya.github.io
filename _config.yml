@@ -16,8 +16,8 @@ nav:
     url: /resume.html
   - name: About
     url: /about.html
-  - name: Portfolio
-    url: /portfolio.html
+  - name: Projects
+    url: /projects.html
   - name: Contact
     url: /contact.html
 
