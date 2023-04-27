@@ -4,7 +4,7 @@ url: https://urvivaidya.github.io
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hyde
 plugins:
   - jekyll-feed
 
