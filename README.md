@@ -3,7 +3,7 @@
 
 > https://urvivaidya.github.io
 
-## Sections 📚
+## Sections
 ✔️ About me\
 ✔️ Experience\
 ✔️ Projects \
